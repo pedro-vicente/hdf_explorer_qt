@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/open.png</file>
+	<file>images/open_dap.png</file>
+	<file>images/sample.png</file>
+	<file>images/folder.png</file>
+	<file>images/document.png</file>
+	<file>images/matrix.png</file>
+	<file>images/left.png</file>
+	<file>images/right.png</file>
+	<file>images/image_indexed.png</file>
+	<file>images/image_true.png</file>
+</qresource>
+</RCC>
